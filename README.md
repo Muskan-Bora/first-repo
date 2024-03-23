@@ -1,3 +1,4 @@
 # first-repo
-This is my first git repository
-Author - Muskan
+This is my first Git Repository.
+<br>
+Author - Muskan.
